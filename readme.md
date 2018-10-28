@@ -6,6 +6,8 @@
 
 - [Tutorial Egghead.io by Kent C. Dodds](https://egghead.io/lessons/react-test-react-components-that-use-react-hooks)
 
+- [Rehooks](https://rehooks.com/#window-resizer)
+
 ### 🚨 Importante 🚨
 
 Hooks is currently in the **alpha version** of react
