@@ -11,3 +11,7 @@
 ### 🚨 Importante 🚨
 
 Hooks is currently in the **alpha version** of react
+
+### Playground 
+
+if you want to play with the code in real time you can do it here: https://codesandbox.io/embed/31399nv39q
